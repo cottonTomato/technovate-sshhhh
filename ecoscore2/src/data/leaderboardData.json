@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Alice", "rank": 1, "points": 1500, "icon": "Users" },
+  { "id": 2, "name": "Bob", "rank": 2, "points": 1400, "icon": "Users" },
+  { "id": 3, "name": "Charlie", "rank": 3, "points": 1300, "icon": "Users" },
+  { "id": 4, "name": "David", "rank": 4, "points": 1200, "icon": "Users" },
+  { "id": 5, "name": "Eve", "rank": 5, "points": 1100, "icon": "Users" },
+  { "id": 6, "name": "Frank", "rank": 6, "points": 1000, "icon": "Users" },
+  { "id": 7, "name": "Grace", "rank": 7, "points": 900, "icon": "Users" },
+  { "id": 8, "name": "Hank", "rank": 8, "points": 800, "icon": "Users" },
+  { "id": 9, "name": "Ivy", "rank": 9, "points": 700, "icon": "Users" },
+  { "id": 10, "name": "Jack", "rank": 10, "points": 600, "icon": "Users" }
+]

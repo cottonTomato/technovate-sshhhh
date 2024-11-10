@@ -1,0 +1,50 @@
+{
+    "hourlyData": [
+      {"day": "Mon", "hour": "00:00", "consumption": 3.2, "peak": 3.8, "average": 3.0},
+      {"day": "Mon", "hour": "01:00", "consumption": 2.8, "peak": 3.3, "average": 2.7},
+      {"day": "Mon", "hour": "02:00", "consumption": 2.5, "peak": 3.0, "average": 2.4},
+      {"day": "Sun", "hour": "23:00", "consumption": 4.1, "peak": 4.9, "average": 3.9}
+    ],
+    "deviceData": [
+      {
+        "name": "HVAC System",
+        "consumption": 450,
+        "percentage": 35,
+        "peakHours": "14:00-17:00",
+        "efficiency": 92,
+        "status": "active"
+      },
+      {
+        "name": "Refrigerator",
+        "consumption": 200,
+        "percentage": 15,
+        "peakHours": "13:00-16:00",
+        "efficiency": 88,
+        "status": "active"
+      },
+      {
+        "name": "Water Heater",
+        "consumption": 180,
+        "percentage": 14,
+        "peakHours": "06:00-09:00",
+        "efficiency": 85,
+        "status": "active"
+      },
+      {
+        "name": "Washing Machine",
+        "consumption": 150,
+        "percentage": 12,
+        "peakHours": "10:00-12:00",
+        "efficiency": 90,
+        "status": "standby"
+      },
+      {
+        "name": "Dishwasher",
+        "consumption": 130,
+        "percentage": 10,
+        "peakHours": "19:00-21:00",
+        "efficiency": 87,
+        "status": "active"
+      }
+    ]
+  }

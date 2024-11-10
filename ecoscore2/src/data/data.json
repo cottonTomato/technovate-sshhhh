@@ -1,0 +1,184 @@
+{
+  "Header": {
+      "title": "Tracking Your Carbon Footprint",
+      "paragraph": "Personalize your journey towards sustainability."
+  },
+  "About": {
+      "paragraph": "Our platform empowers you to monitor and reduce your carbon footprint effectively. By understanding your daily activities and their environmental impact, you can make informed decisions that contribute to a healthier planet.",
+      "Why": [
+          "Understand your carbon emissions",
+          "Set personalized reduction goals",
+          "Track your progress over time",
+          "Engage with a community of eco-conscious individuals"
+      ],
+      "Why2": [
+          "Receive tailored recommendations",
+          "Access educational resources",
+          "Participate in challenges and events",
+          "Contribute to global sustainability efforts"
+      ]
+  },
+  "Gallery": [
+      {
+          "title": "Community Clean-Up Event",
+          "largeImage": "img/portfolio/01-large.jpg",
+          "smallImage": "img/portfolio/01-small.jpg"
+      },
+      {
+          "title": "Sustainable Living Workshop",
+          "largeImage": "img/portfolio/02-large.jpg",
+          "smallImage": "img/portfolio/02-small.jpg"
+      },
+      {
+          "title": "Tree Planting Initiative",
+          "largeImage": "img/portfolio/03-large.jpg",
+          "smallImage": "img/portfolio/03-small.jpg"
+      },
+      {
+          "title": "Eco-Friendly Product Fair",
+          "largeImage": "img/portfolio/04-large.jpg",
+          "smallImage": "img/portfolio/04-small.jpg"
+      },
+      {
+          "title": "Renewable Energy Expo",
+          "largeImage": "img/portfolio/05-large.jpg",
+          "smallImage": "img/portfolio/05-small.jpg"
+      },
+      {
+          "title": "Sustainable Fashion Show",
+          "largeImage": "img/portfolio/06-large.jpg",
+          "smallImage": "img/portfolio/06-small.jpg"
+      },
+      {
+          "title": "Urban Gardening Workshop",
+          "largeImage": "img/portfolio/07-large.jpg",
+          "smallImage": "img/portfolio/07-small.jpg"
+      },
+      {
+          "title": "Zero Waste Challenge",
+          "largeImage": "img/portfolio/08-large.jpg",
+          "smallImage": "img/portfolio/08-small.jpg"
+      },
+      {
+          "title": "Climate Change Awareness Campaign",
+          "largeImage": "img/portfolio/09-large.jpg",
+          "smallImage": "img/portfolio/09-small.jpg"
+      }
+  ],
+  "Services": [
+      {
+          "icon": "fa fa-chart-line",
+          "name": "Carbon Footprint Calculator",
+          "text": "Easily calculate your carbon emissions based on your lifestyle choices and daily activities."
+      },
+      {
+          "icon": "fa fa-user-check",
+          "name": "Personalized Action Plans",
+          "text": "Receive customized strategies to reduce your carbon footprint effectively."
+      },
+      {
+          "icon": "fa fa-signal",
+          "name": "Progress Tracking Dashboard",
+          "text":  "Monitor your progress with our intuitive dashboard that visualizes your carbon reduction journey."
+      },
+      {
+          "icon":  "fa fa-comments",
+          "name":  "Community Support & Engagement", 
+         "text":"Join a network of like-minded individuals for support, ideas, and motivation."
+     }, 
+     {
+         "icon":"fa fa-leaf", 
+         "name":"Eco-Friendly Product Recommendations", 
+         "text":"Discover sustainable products that can help you lower your environmental impact." 
+     }, 
+     { 
+         "icon":"fa fa-trophy", 
+         "name":"Challenges & Rewards", 
+         "text":"Participate in challenges to earn rewards while making a positive impact on the planet." 
+     }
+  ],
+  "Testimonials":[
+     { 
+         "img":"img/testimonials/01.jpg", 
+         "text":"\"This app has transformed how I view my daily habits. I've reduced my footprint significantly!\"", 
+         "name":"Alice Smith" 
+     }, 
+     { 
+         "img":"img/testimonials/02.jpg", 
+         "text":"\"The personalized recommendations are fantastic! I've learned so much about sustainable living.\"", 
+         "name":"Brian Johnson" 
+     }, 
+     { 
+         "img":"img/testimonials/03.jpg", 
+         "text":"\"I love the community aspect! Sharing tips and challenges with others keeps me motivated.\"", 
+         "name":"Emily Davis" 
+     }, 
+     { 
+         "img":"img/testimonials/04.jpg", 
+         "text":"\"Tracking my progress has been eye-opening. I feel empowered to make a difference!\"", 
+         "name":"Michael Brown" 
+     }, 
+     { 
+         "img":"img/testimonials/05.jpg", 
+         "text":"\"The app is user-friendly and informative. It's made sustainability part of my daily routine!\"", 
+         "name":"Sarah Wilson" 
+     }, 
+     { 
+         "img":"img/testimonials/06.jpg", 
+         "text":"\"I appreciate the actionable insights provided. It's great to see my impact over time!\"",  
+         "name":"Chris Lee"  
+     }
+  ],
+  "Team":[
+     {  
+        "img":"img/team/01.jpg",  
+        "name":"Emma Green",  
+        "job":"Founder & CEO"  
+     },  
+     {  
+        "img":"img/team/02.jpg",  
+        "name":"Liam White",  
+        "job":"Sustainability Expert"  
+     },  
+     {  
+        "img":"img/team/03.jpg",  
+        "name":"Sophia Black",  
+        "job":"Community Manager"  
+     },  
+     {  
+        "img":"img/team/04.jpg",  
+        "name":"James Blue",  
+        "job":"Tech Lead"  
+     }
+  ],
+  "Contact": {
+    "address": "4321 Greenway Ave, San Francisco, CA 94107",
+    "phone": "+1 123 456 7890",
+    "email": "support@carbontracker.com",
+    "facebook": "fb.com/carbontracker",
+    "twitter": "twitter.com/carbontracker",
+    "youtube": "youtube.com/carbontracker"
+  },
+  "Features": [
+    {
+       "icon": "fa fa-comments-o",
+       "title": "Interactive Community Forum",
+       "text": "Engage with others in discussions about sustainable practices and share experiences."
+    },
+    {
+       "icon": "fa fa-bullhorn",
+       "title": "Real-Time Emission Updates",
+       "text": "Stay informed with the latest news on climate change and sustainability efforts."
+    },
+    {
+       "icon": "fa fa-group",
+       "title": "Collaborative Challenges",
+       "text": "Join group challenges to amplify your impact and connect with others."
+    },
+    {
+       "icon": "fa fa-magic",
+       "title": "Gamified Experience",
+       "text": "Earn badges and rewards as you complete tasks and reach milestones in reducing your footprint."
+    }
+  ]
+}

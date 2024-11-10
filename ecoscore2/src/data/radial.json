@@ -1,0 +1,41 @@
+{
+    "deviceData": [
+      {
+        "browser": "safari",
+        "visitors": 200,
+        "fill": "var(--color-safari)"
+      },
+      {
+        "browser": "chrome",
+        "visitors": 350,
+        "fill": "var(--color-chrome)"
+      },
+      {
+        "browser": "firefox",
+        "visitors": 150,
+        "fill": "var(--color-firefox)"
+      }
+    ],
+    "deviceConfig": {
+      "visitors": {
+        "label": "Visitors"
+      },
+      "safari": {
+        "label": "Safari",
+        "color": "hsl(var(--chart-2))"
+      },
+      "chrome": {
+        "label": "Chrome",
+        "color": "hsl(var(--chart-3))"
+      },
+      "firefox": {
+        "label": "Firefox",
+        "color": "hsl(var(--chart-4))"
+      }
+    },
+    "trendingInfo": {
+      "percentage": 5.2,
+      "period": "month",
+      "timeRange": "January - June 2024"
+    }
+  }

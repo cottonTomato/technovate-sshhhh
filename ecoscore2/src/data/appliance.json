@@ -1,0 +1,44 @@
+{
+  "television": {
+    "name": "Television",
+    "timeSeriesData": [
+      { "timestamp": "00:00", "power": 180 },
+      { "timestamp": "03:00", "power": 0 },
+      { "timestamp": "06:00", "power": 165 },
+      { "timestamp": "09:00", "power": 175 },
+      { "timestamp": "12:00", "power": 155 },
+      { "timestamp": "15:00", "power": 185 },
+      { "timestamp": "18:00", "power": 195 },
+      { "timestamp": "21:00", "power": 190 },
+      { "timestamp": "23:59", "power": 170 }
+    ]
+  },
+  "geyser": {
+    "name": "Geyser",
+    "timeSeriesData": [
+      { "timestamp": "00:00", "power": 0 },
+      { "timestamp": "03:00", "power": 0 },
+      { "timestamp": "06:00", "power": 2800 },
+      { "timestamp": "09:00", "power": 2500 },
+      { "timestamp": "12:00", "power": 0 },
+      { "timestamp": "15:00", "power": 0 },
+      { "timestamp": "18:00", "power": 2600 },
+      { "timestamp": "21:00", "power": 2400 },
+      { "timestamp": "23:59", "power": 0 }
+    ]
+  },
+  "airConditioner": {
+    "name": "Air Conditioner",
+    "timeSeriesData": [
+      { "timestamp": "00:00", "power": 1600 },
+      { "timestamp": "03:00", "power": 1400 },
+      { "timestamp": "06:00", "power": 1200 },
+      { "timestamp": "09:00", "power": 1800 },
+      { "timestamp": "12:00", "power": 1900 },
+      { "timestamp": "15:00", "power": 2000 },
+      { "timestamp": "18:00", "power": 1800 },
+      { "timestamp": "21:00", "power": 1700 },
+      { "timestamp": "23:59", "power": 1500 }
+    ]
+  }
+}
