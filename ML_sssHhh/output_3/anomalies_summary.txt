@@ -1,0 +1,2 @@
+Detected 1 anomalies in the last 7 days.
+On 2024-11-09 00:00:00, the consumption was 287.16 which deviated by -26.78428571428566 from the mean.
